@@ -1,0 +1,165 @@
+h1{
+margin-top:0px;
+font-family: 'Kings', cursive;
+font-size:5.625 rem;
+padding:50px auto 0 auto;
+color:#66BFBF;
+}
+
+hr{
+border:dotted #EAF6F6 6px;
+border-bottom:none;
+width:5%;
+margin:100px auto;
+}
+
+body{
+margin:0px;
+text-align:center;
+color:#40514E;
+}
+
+
+p{
+font-family: 'Montserrat', sans-serif;
+line-height:2;
+}
+
+
+h2{
+font-family: 'Oswald', sans-serif;
+font-size:2.5 rem;
+color:#66BFBF;
+font-weight: normal;
+padding-bottom:10px;
+}
+
+
+h3{
+font-family: 'Zilla Slab', serif;
+color:#11999E
+}
+
+.Top{
+background-color:#E4F9F5;
+width:100%;
+height:100%;
+margin: 0 auto 50px auto;
+line-height:2;
+}
+
+.Middle{
+background-color:red;
+height:200px;
+width:200px;
+}
+
+.Bottom{
+margin:50px 0 20px;
+background-color:#E4F9F5;
+}
+
+
+.bottom-mountain{
+position:absolute;
+top:110px;
+}
+
+.top-mountain{
+position:absolute;
+top:60px;
+left:80px;
+}
+
+.footer-link{
+color:#11999E
+}
+
+.skill-row{
+margin:100px auto 100px auto;
+width:50%;
+text-align: left;
+line-height: 2;
+}
+
+.Skill-1{
+float:left;
+width:150px;
+margin-right:30px;
+}
+
+.Skill-2{
+float:right;
+width:150px;
+margin-left:30px;
+}
+
+.intro{
+width:30%;
+margin:auto;
+}
+
+
+.contact msg{
+width:30%;
+margin:auto;
+}
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #11999e);
+  background-image: -moz-linear-gradient(top, #3498db, #11999e);
+  background-image: -ms-linear-gradient(top, #3498db, #11999e);
+  background-image: -o-linear-gradient(top, #3498db, #11999e);
+  background-image: linear-gradient(to bottom, #3498db, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background:  #30e3cb;
+  background-image: -webkit-linear-gradient(top,  #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top,  #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top,  #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top,  #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom,  #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+a{
+color:#66BFBF;
+font-family: 'Montserrat', sans-serif;
+margin:10px 20px;
+text-decoration:none;
+}
+
+a:hover{
+color:#30e3cb;
+}
+
+.copyright{
+color:#30e3cb;
+font-size:1 rem;
+padding:20px 0;
+}
+
+.Insta{
+width:5%;
+height:4%;
+}
+
+.Twitter{
+width:5%;
+height:4%;
+}
+
+.Link{
+width:5%;
+height:4%;
+}
